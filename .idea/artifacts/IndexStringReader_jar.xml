@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IndexStringReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IndexStringReader_jar</output-path>
+    <root id="archive" name="IndexStringReader.jar">
+      <element id="module-output" name="IndexStringReader" />
+    </root>
+  </artifact>
+</component>
